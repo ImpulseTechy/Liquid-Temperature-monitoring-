@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3qaTt8pGv"
 #define BLYNK_TEMPLATE_NAME "IoT based liquid temperature monitoring"
-#define BLYNK_AUTH_TOKEN "d63XTdTLRB_R90G98_wtmQ34QSzCbR4k"
+#define BLYNK_AUTH_TOKEN "d63XTdTLRBdfgdf_R90G98_wtmQ34QSzCbR4k"
 
 #include <OneWire.h>
 #include <DallasTemperature.h>
